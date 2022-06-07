@@ -5,7 +5,6 @@ My name is Niek Vlam and I'm a backend developer living in the Netherlands. I am
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alphaegen&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/Alphaegen/Alphaegen)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Alphaegen&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/Alphaegen/Alphaegen)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Alphaegen&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/Alphaegen/Alphaegen)
 
 
 <!-- links to your social media accounts -->
