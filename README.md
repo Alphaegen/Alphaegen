@@ -1,4 +1,4 @@
-# Hello, everyone!
+# Niek Vlam
 
 Highly motivated backend developer working at Suite Seven. I have been working with Magento 2 and Laravel for multiple years and I'm constantly trying to improve my skills. My current focus is on an ecommerce platform called Shopware.
 
