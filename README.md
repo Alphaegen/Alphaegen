@@ -1,6 +1,10 @@
 # Hello, everyone!
 
-My name is Niek Vlam and I'm a backend developer living in the Netherlands. I am currently working at a web development company called Suite Seven where I work with Magento 2, Wordpress and new innovations.
+Highly motivated backend developer working at Suite Seven. I have been working with Magento 2 and Laravel for multiple years and I'm constantly trying to improve my skills. My current focus is on an ecommerce platform called Shopware.
+
+I try to write clean and well documented code and make sure it isn't overly complicated.
+
+I have experience in cloud technologies, continuous integration/deployment, web system architecture and Linux as a whole thanks to having used Manjaro as my main OS for 3 years.
 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alphaegen&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/Alphaegen/Alphaegen)
